@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T02:57:09.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IMf2iSb9lpVa8bUTOGyo" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T03:26:57.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LYjQrSp3eO6U6L6QBIWU" version="14.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2212" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -41,8 +41,11 @@
         <mxCell id="UrFcasW0O5pefG1lsXFd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-8" target="UrFcasW0O5pefG1lsXFd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-8" target="UrFcasW0O5pefG1lsXFd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UrFcasW0O5pefG1lsXFd-8" value="What would you like?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UrFcasW0O5pefG1lsXFd-11" value="espresso/latte/cappuccino" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="50" width="120" height="60" as="geometry" />
@@ -56,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UrFcasW0O5pefG1lsXFd-12" value="done making" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UrFcasW0O5pefG1lsXFd-14" value="turn off" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-170" y="530" width="120" height="60" as="geometry" />
@@ -69,6 +72,83 @@
         </mxCell>
         <mxCell id="UrFcasW0O5pefG1lsXFd-19" value="&#xa;&#xa;Water: 100ml&#xa;Milk: 50ml&#xa;Coffee: 76g&#xa;Money: $2.5&#xa;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-310" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-21" target="UrFcasW0O5pefG1lsXFd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-21" target="UrFcasW0O5pefG1lsXFd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-21" value="&#xa;&#xa;Check resources &#xa;&#xa;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-23" target="UrFcasW0O5pefG1lsXFd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-23" value="not enough resource" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-26" target="UrFcasW0O5pefG1lsXFd-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-26" value="Make Coffee.&lt;br/&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-29" target="UrFcasW0O5pefG1lsXFd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-29" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;insert coin&lt;/span&gt;&lt;br&gt;1 quarter, 2 dimes, 1 nickel, 2&lt;br/&gt;pennies = 0.25 + 0.1 x 2 + 0.05 + 0.01 x 2 = $0.52&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.04;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-33" target="UrFcasW0O5pefG1lsXFd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-36" value="not enough coins" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrFcasW0O5pefG1lsXFd-35">
+          <mxGeometry x="0.1441" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-33" target="UrFcasW0O5pefG1lsXFd-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="565" />
+              <mxPoint x="170" y="650" />
+              <mxPoint x="-360" y="650" />
+              <mxPoint x="-360" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-38" value="profit counted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrFcasW0O5pefG1lsXFd-37">
+          <mxGeometry x="0.3973" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-48" value="deduct ingredients&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrFcasW0O5pefG1lsXFd-37">
+          <mxGeometry x="-0.3609" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-33" target="UrFcasW0O5pefG1lsXFd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrFcasW0O5pefG1lsXFd-33" target="UrFcasW0O5pefG1lsXFd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-43" value="enough money = ok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrFcasW0O5pefG1lsXFd-42">
+          <mxGeometry x="0.2938" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-33" value="Check transaction" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="530" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-40" value="&amp;nbsp;offer change.&lt;br&gt;Here is $2.45 dollars in change" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UrFcasW0O5pefG1lsXFd-46" value="Here is your latte. Enjoy!”." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
